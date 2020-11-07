@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIPizza.Functions", "APIPizza.Functions\APIPizza.Functions.csproj", "{98A3E99C-1F27-4C21-AFC1-1B790669AE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A3E99C-1F27-4C21-AFC1-1B790669AE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A3E99C-1F27-4C21-AFC1-1B790669AE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A3E99C-1F27-4C21-AFC1-1B790669AE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A3E99C-1F27-4C21-AFC1-1B790669AE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF7AC13-7850-4B8D-99EA-F604BB14593D}
+	EndGlobalSection
+EndGlobal
